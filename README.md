@@ -5,6 +5,8 @@ NPM: 2306224410 <br>
 Kelas: Advprog-B
 <hr>
 
+## Reflection on Hello Minikube
+
 1. Compare the application logs before and after you exposed it as a Service. Try to open the app several times while the proxy into the Service is running. What do you see in the logs? Does the number of logs increase each time you open the app?
 ![log1](/image/log1.jpeg)
 ![log2](/image/log2.jpeg)
